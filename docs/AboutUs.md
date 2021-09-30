@@ -11,41 +11,42 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Siddanth
 
-<img src="images/siddanth.png" width="200px">
+<img src="images/wowsiddanth.png" width="200px">
 
 [[github](https://github.com/wowsiddanth)]
 [[portfolio](team/johndoe.md)]
 
-* Role: Undecided
+* Role: Code Quality
+* Responsibilities: Ensure code is elegant and meets the coding conventions.
 
 ### Rehad
 
-<img src="images/rehad.png" width="200px">
+<img src="images/rehad-a.png" width="200px">
 
 [[github](http://github.com/rehad-a)]
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/rehad-a.md)]
 
 * Role: Testing
 
 ### Elvis Teo
 
-<img src="images/TLChicken.png" width="200px">
+<img src="images/tlchicken.png" width="200px" height="236px">
 
 [[github](http://github.com/TLChicken)]
-[[portfolio](team/TLChicken.md)]
+[[portfolio](team/tlchicken.md)]
 
 * Role: Scheduling and Tracking
-* Responsibilities: 
+* Responsibilities:
 
-### Jean Doe
+### Joel Sung
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/joel-sung.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/joelsung)]
+[[portfolio](team/joelsung.md)]
 
-* Role: Developer
-* Responsibilities: Dev Ops + Threading
+* Role: Team lead
+* Responsibilities: Overall project coordination + Project documentation quality
 
 ### Sun Yu Pei
 

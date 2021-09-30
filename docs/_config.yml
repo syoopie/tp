@@ -1,4 +1,4 @@
-title: "AB-3"
+title: "NUS Tracker"
 theme: minima
 
 header_pages:
@@ -8,7 +8,7 @@ header_pages:
 
 markdown: kramdown
 
-repository: "se-edu/addressbook-level3"
+repository: "se-edu/nus-tracker"
 github_icon: "images/github-icon.png"
 
 plugins:
