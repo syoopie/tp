@@ -162,9 +162,9 @@ public class Student {
                 .append("; Email: ")
                 .append(getEmail())
                 .append("; Year: ")
+                .append(getYear())
                 .append("; Major: ")
                 .append(getMajor())
-                .append(getYear())
                 .append("; NUSNetId: ")
                 .append(getNusNetId());
         Set<Tag> tags = getTags();
